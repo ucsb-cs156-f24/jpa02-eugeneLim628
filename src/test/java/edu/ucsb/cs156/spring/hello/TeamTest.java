@@ -20,6 +20,7 @@ public class TeamTest {
         team = new Team("test-team");
         test1 = new Team("test-team");
         test2 = new Team("test-team"); 
+        test3 = new Team("team3");
         test2.addMember("Eugene Lim");
         t = new Team("test");
     }
