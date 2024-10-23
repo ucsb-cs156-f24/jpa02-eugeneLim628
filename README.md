@@ -4,7 +4,7 @@
 https://github.com/ucsb-cs156-f24/jpa02-eugeneLim628
 
 
-Deployed at: [https://jpa02-replace-me.dokku-xx.cs.ucsb.edu](https://jpa02-eugenelim628.dokku-03.cs.ucsb.edu/)
+Deployed at: [https://jpa02-eugenelim628.dokku-03.cs.ucsb.edu](https://jpa02-eugenelim628.dokku-03.cs.ucsb.edu/)
 
 
 # About this repo
